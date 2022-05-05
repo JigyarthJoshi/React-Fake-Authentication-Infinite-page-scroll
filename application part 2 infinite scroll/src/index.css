@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #eee;
+}
+
+.App-title {
+  font-family: 'Orelega One', cursive;
+  font-size: 55px;
+}
+
+.App-header {
+  padding: 30px;
+  text-align: center;
+}
+
+.btn-container {
+  margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.current-page {
+  font-size: 18px;
+}
+
+.error {
+  padding: 40px;
+  font-size: 20px;
+  border: 1px solid;
+  margin: 100px;
+  text-align: center;
+}
+
+.error-title {
+  font-family: 'Orelega One', cursive;
+  font-size: 35px;
+  color: #d42424;
+  margin-bottom: 20px;
+}
+
+.loading-new-images-container {
+  padding: 70px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Orelega One', cursive;
+  font-size: 30px;
+  color: #bfaefc;
+}
